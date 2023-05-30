@@ -1,0 +1,12 @@
+openapi: 3.0.0
+info:
+  title: Your API Title
+  description: Description of your API
+  version: 1.0.0
+tags:
+  - name: Layouts
+    description: Endpoints for managing layouts
+  - name: Users
+    description: Endpoints for managing users
+paths: {}
+components: {}
